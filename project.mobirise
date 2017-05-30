@@ -353,6 +353,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/witteraaf2-2000x1363-800x545.jpg",
                 "image": "@PROJECT_PATH@/assets/images/witteraaf2-2000x1363.jpg",
                 "caption": "De Witte Raaf, nr. 185<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dewitteraafbinnenkant-2000x1363-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dewitteraafbinnenkant-2000x1363.jpg",
+                "caption": "De Witte Raaf, nr. 185<br>",
                 "active": true
               }
             ],
